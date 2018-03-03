@@ -2,7 +2,9 @@
 ===============
 
 
-![](img/hero_intro.jpg)
+<p align="center"><br/>
+    <img src="img/hero_intro.jpg" alt="my alt text">
+</p>
 
 ### [Introduction to Blender interface and 3D modeling basics](https://github.com/ptabriz/geodesign_with_blender/wiki/intro_blender)</br></br>
 
