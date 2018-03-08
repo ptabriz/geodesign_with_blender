@@ -1,4 +1,4 @@
-3D visualization of Geospatial data and simulations with Blender
+3D visualization and VR modeling of Geospatial data and simulations with Blender
 ===============
 
 
