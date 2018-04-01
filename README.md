@@ -9,6 +9,12 @@
 ### [Introduction to Blender interface and scripting basics](https://github.com/ptabriz/geodesign_with_blender/wiki/intro_blender)</br></br>
 
 <p align="center"><br/>
+    <img src="img/hero_shading.jpg" alt="my alt text">
+</p>
+
+### [Advanced shading in Blender: earth surface example ](https://github.com/ptabriz/geodesign_with_blender/wiki/advanced_shading)</br></br>
+
+<p align="center"><br/>
     <img src="img/example_1_intro.jpg" alt="my alt text">
 </p>
 
